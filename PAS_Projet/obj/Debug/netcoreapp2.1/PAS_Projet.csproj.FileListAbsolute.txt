@@ -1,0 +1,14 @@
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/bin/Debug/netcoreapp2.1/PAS_Projet.deps.json
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/bin/Debug/netcoreapp2.1/PAS_Projet.runtimeconfig.json
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/bin/Debug/netcoreapp2.1/PAS_Projet.runtimeconfig.dev.json
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/bin/Debug/netcoreapp2.1/PAS_Projet.dll
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/bin/Debug/netcoreapp2.1/PAS_Projet.pdb
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/obj/Debug/netcoreapp2.1/PAS_Projet.csprojAssemblyReference.cache
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/obj/Debug/netcoreapp2.1/PAS_Projet.csproj.CoreCompileInputs.cache
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/obj/Debug/netcoreapp2.1/PAS_Projet.RazorAssemblyInfo.cache
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/obj/Debug/netcoreapp2.1/PAS_Projet.RazorAssemblyInfo.cs
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/obj/Debug/netcoreapp2.1/PAS_Projet.AssemblyInfoInputs.cache
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/obj/Debug/netcoreapp2.1/PAS_Projet.AssemblyInfo.cs
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/obj/Debug/netcoreapp2.1/PAS_Projet.RazorTargetAssemblyInfo.cache
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/obj/Debug/netcoreapp2.1/PAS_Projet.dll
+/Users/jg5618/Desktop/PAS_Projet/PAS_Projet/PAS_Projet/obj/Debug/netcoreapp2.1/PAS_Projet.pdb

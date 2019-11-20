@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A7D87838-DDD4-4E7F-9ADD-EB4425FCAA21}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PAS_Projet/PAS_Projet.csproj">
+    <Files>
+      <File FileName="PAS_Projet/appsettings.json" Line="1" Column="1" />
+      <File FileName="PAS_Projet/Program.cs" Line="1" Column="1" />
+      <File FileName="PAS_Projet/Startup.cs" Line="1" Column="1" />
+      <File FileName="PAS_Projet/PAS_Projet.csproj" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PAS__Projet PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
