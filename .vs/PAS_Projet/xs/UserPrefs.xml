@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{A7D87838-DDD4-4E7F-9ADD-EB4425FCAA21}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PAS_Projet/PAS_Projet.csproj">
+    <Files>
+      <File FileName="PAS_Projet/PAS_Projet.csproj" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
